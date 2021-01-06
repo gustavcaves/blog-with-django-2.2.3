@@ -36,3 +36,6 @@ gustav | 123456789
 ### miércoles, 6 de enero de 2021 0:35
 
 Creo este repositorio y plataforma de documentacion en Notion, mi web y blog personal y de proyectos como developer.
+
+To activate this project's virtualenv, run pipenv shell.
+Alternatively, run a command inside the virtualenv with pipenv run.
