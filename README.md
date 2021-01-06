@@ -25,7 +25,7 @@
 
 ## Contraseña Login
 
-gustav | 123456789
+admin | 1234
 
 # Link de Post - Blog
 
