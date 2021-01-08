@@ -33,6 +33,14 @@ admin | 1234
 
 ## Comentarios
 
+viernes, 8 de enero de 2020 12:45
+
+Realizado el modelo vista template, pruebas con la shell, administrador integrado y carga de variables de contexto.
+
+### jueves, 7 de enero de 2021 23:45
+
+Aplico models a base de datos con la migracion.
+
 ### miércoles, 6 de enero de 2021 0:35
 
 Creo este repositorio y plataforma de documentacion en Notion, mi web y blog personal y de proyectos como developer.
