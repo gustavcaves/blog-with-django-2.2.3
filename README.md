@@ -1,4 +1,4 @@
-# Blog Básico con Django 2.2.3
+# Blog Básico con Django 2.2.3 - Finalizado
 
 ## En este repositorio estaré llevando las pruebas de la documentacion de Hector Profe
 
@@ -33,9 +33,9 @@ admin | 1234
 
 ## Comentarios
 
-viernes, 8 de enero de 2020 12:45
+### viernes, 8 de enero de 2020 12:45
 
-Realizado el modelo vista template, pruebas con la shell, administrador integrado y carga de variables de contexto.
+Realizado el modelo vista template, pruebas con la shell, administrador integrado y carga de variables de contexto. Bien, son las 18:38 y he finalizado el tutorial de blog de django básico.
 
 ### jueves, 7 de enero de 2021 23:45
 
